@@ -5,8 +5,7 @@
 
 
 ## Checking news of Delhi
-
-
+![news_app](https://github.com/aadityamittal/Web-Scrapper/blob/main/Screen%20Shot%2010-29-2021%20at%2011.52%20AM.png)
 
 ## Checking weather of Delhi
 ![whether_app](https://github.com/aadityamittal/Web-Scrapper/blob/main/Screen%20Shot%2010-29-2021%20at%2011.52%20AM%20-%202.png)
