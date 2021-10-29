@@ -15,3 +15,9 @@
 
 
 ## Checking someone linkedin profile
+![check_profile](https://github.com/aadityamittal/Web-Scrapper/blob/main/Screen%20Shot%2010-29-2021%20at%2012.13%20PM.png)
+
+> Enter your user mail of linkedin
+> Enter your password of linkedin
+> Enter someone profile of linkedin
+> Your search will be displayed😊
